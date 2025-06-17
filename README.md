@@ -22,9 +22,7 @@
 
 ## 🖼 Preview
 
-![Homepage](./home.png)
-![About Section](./about.png)
-![Food Section](./food1.png)
+![Homepage](./homepage.png)
 
 *(You can add more screenshots if you'd like)*
 
@@ -34,7 +32,6 @@
 
 🌐 [Click to View Website on Vercel](https://buurestaurant-github-io-qwbm.vercel.app)
 
-> Or access it via GitHub Pages if deployed there.
 
 ---
 
