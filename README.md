@@ -24,7 +24,6 @@
 
 ![Homepage](./homepage.png)
 
-*(You can add more screenshots if you'd like)*
 
 ---
 
