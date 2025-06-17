@@ -22,7 +22,7 @@
 
 ## 🖼 Preview
 
-![Homepage](./homepage.png)
+![Homepage](./Homepages.png)
 
 
 ---
